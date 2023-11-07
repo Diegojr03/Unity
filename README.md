@@ -34,4 +34,3 @@ Este script en C# para Unity, llamado "CalidadAjustes," gestiona la calidad grá
 - Ajusta la configuración de la escena en Unity.
 - Personaliza el rango de calidad según necesites.
 
-¡Disfruta del control dinámico de calidad gráfica!
